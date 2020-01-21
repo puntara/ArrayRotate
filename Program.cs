@@ -33,7 +33,7 @@ namespace example
         static void Main(string[] args)
         {
             int[] array1 = { 1, 2, 3, 4, 5, 6, 7,8,9 };
-            Rightrotate(array1, 2, 9);
+            Rightrotate(array1, 1, 9);
             print(array1, 9);
            
         }

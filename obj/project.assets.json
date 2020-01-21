@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teejan\\source\\repos\\example\\example\\RotateArray.csproj",
+      "projectUniqueName": "C:\\Users\\Teejan\\ArrayRotate\\RotateArray.csproj",
       "projectName": "RotateArray",
-      "projectPath": "C:\\Users\\Teejan\\source\\repos\\example\\example\\RotateArray.csproj",
+      "projectPath": "C:\\Users\\Teejan\\ArrayRotate\\RotateArray.csproj",
       "packagesPath": "C:\\Users\\Teejan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teejan\\source\\repos\\example\\example\\obj\\",
+      "outputPath": "C:\\Users\\Teejan\\ArrayRotate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teejan\\AppData\\Roaming\\NuGet\\NuGet.Config",

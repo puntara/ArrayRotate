@@ -1,0 +1,11 @@
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.exe
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.deps.json
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.runtimeconfig.json
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.runtimeconfig.dev.json
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.dll
+C:\Users\Teejan\ArrayRotate\bin\Debug\netcoreapp3.0\RotateArray.pdb
+C:\Users\Teejan\ArrayRotate\obj\Debug\netcoreapp3.0\RotateArray.csprojAssemblyReference.cache
+C:\Users\Teejan\ArrayRotate\obj\Debug\netcoreapp3.0\RotateArray.AssemblyInfoInputs.cache
+C:\Users\Teejan\ArrayRotate\obj\Debug\netcoreapp3.0\RotateArray.AssemblyInfo.cs
+C:\Users\Teejan\ArrayRotate\obj\Debug\netcoreapp3.0\RotateArray.dll
+C:\Users\Teejan\ArrayRotate\obj\Debug\netcoreapp3.0\RotateArray.pdb
